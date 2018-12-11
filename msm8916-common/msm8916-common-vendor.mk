@@ -78,10 +78,10 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/etc/permissions/com.quicinc.cne.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.quicinc.cne.xml\
     vendor/asus/msm8916-common/proprietary/etc/permissions/ConnectivityExt.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/ConnectivityExt.xml\
     vendor/asus/msm8916-common/proprietary/etc/permissions/dpmapi.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/dpmapi.xml\
-    vendor/asus/msm8916-common/proprietary/etc/permissions/imscm.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/imscm.xml\
+    vendor/asus/msm8916-common/proprietary/vendor/etc/permissions/imscm.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/imscm.xml\
     vendor/asus/msm8916-common/proprietary/etc/permissions/qcnvitems.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/qcnvitems.xml\
     vendor/asus/msm8916-common/proprietary/etc/permissions/qcrilhook.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/qcrilhook.xml\
-    vendor/asus/msm8916-common/proprietary/etc/permissions/qti_permissions.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/qti_permissions.xml\
+    vendor/asus/msm8916-common/proprietary/vendor/etc/permissions/qti_permissions.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/qti_permissions.xml\
     vendor/asus/msm8916-common/proprietary/etc/permissions/qti_telephony_common.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/qti_telephony_common.xml\
     vendor/asus/msm8916-common/proprietary/etc/tamcid:$(TARGET_COPY_OUT_SYSTEM)/etc/tamcid\
     vendor/asus/msm8916-common/proprietary/framework/cneapiclient.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/cneapiclient.jar\
