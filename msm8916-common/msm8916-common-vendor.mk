@@ -49,7 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/etc/cne/SwimConfig.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/SwimConfig.xml\
     vendor/asus/msm8916-common/proprietary/etc/data/dsi_config.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/data/dsi_config.xml\
     vendor/asus/msm8916-common/proprietary/etc/data/netmgr_config.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/data/netmgr_config.xml\
-    vendor/asus/msm8916-common/proprietary/etc/data/qmi_config.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/data/qmi_config.xml\
+    vendor/asus/msm8916-common/proprietary/vendor/etc/data/qmi_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/qmi_config.xml\
     vendor/asus/msm8916-common/proprietary/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/dpm/dpm.conf\
     vendor/asus/msm8916-common/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/dpm/nsrm/NsrmConfiguration.xml\
     vendor/asus/msm8916-common/proprietary/etc/firmware/a225p5_pm4.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/a225p5_pm4.fw\
